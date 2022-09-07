@@ -1,16 +1,28 @@
 # Introduction
 
-An application for adding friends and poking them
+An application for adding friends and poking them 👉🏽
 
 # Instant Friends (Fullstack Web App)
 
-- User can sign up for a new account, or log in to an existing account
-- User can see how many friends they currently have 
-- User can add friends through an input, which can then be removed from their profile if needed 
-- taking nods from glassmorphism and neomorphism design styles, we created a clean, modernized interface that is easy and enjoyable for any user’s experience
+🖍 User can sign up for a new account, or log in to an existing account 
+<br>
+🔢 User can see how many friends they currently have <br>
+<br>
+➕ User can add friends through an input, which can then be removed from their profile if needed <br>
+<br>
+💎 taking nods from glassmorphism and neomorphism design styles, we created a clean, modernized interface that is easy and enjoyable for any user’s experience <br>
 ---
 
-# Packages/Dependencies used 
+# Contributers 🤝🏽
+
+<a href ='https://github.com/KevinLindh'>Kevinlindh</a> <br>
+<a href ='https://github.com/kgni'>kgni</a> <br>
+<a href ='https://github.com/AgataM'>AgataM</a> <br>
+<a href ='https://github.com/Teedevs'>Teedevs</a> <br>
+
+
+
+# Packages/Dependencies used 🧩
 
 bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mongodb, mongoose, morgan, nodemon, passport, passport-local, validator
 
