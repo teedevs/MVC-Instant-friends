@@ -1,0 +1,14 @@
+/* Background:   */
+
+/* Text:  */
+
+h1 {
+  color: black;
+}
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+.not {
+  text-decoration: underline;
+}
